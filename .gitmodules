@@ -1,0 +1,3 @@
+[submodule "thirdparty/nndeploy"]
+	path = thirdparty/nndeploy
+	url = https://github.com/DeployAI/nndeploy.git
